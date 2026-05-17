@@ -189,7 +189,7 @@ CREATE DATABASE ecommerce_db;
 Run files in this order:
 
 ```bash
-2. E-Commerce Database System
+2. E-Commerce Database System.sql
 ```
 
 ---
