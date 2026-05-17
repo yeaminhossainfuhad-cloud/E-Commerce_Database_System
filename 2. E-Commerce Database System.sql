@@ -252,6 +252,7 @@ JOIN payments p ON o.id = p.order_id;
 
 --Trigger to Update Stock After Order
 
+
 SELECT * FROM order_summary;
 
 
